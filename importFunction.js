@@ -1,0 +1,1 @@
+const newFunc = require("./exportFunction");
